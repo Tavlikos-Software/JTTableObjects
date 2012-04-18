@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTTableObjects", "JTTableObjects\JTTableObjects.csproj", "{94A037FA-A508-4B48-B3AD-38A7C2FA3CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A037FA-A508-4B48-B3AD-38A7C2FA3CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A037FA-A508-4B48-B3AD-38A7C2FA3CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A037FA-A508-4B48-B3AD-38A7C2FA3CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A037FA-A508-4B48-B3AD-38A7C2FA3CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = JTTableObjects\JTTableObjects.csproj
+	EndGlobalSection
+EndGlobal
