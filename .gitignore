@@ -2,3 +2,4 @@ bin/
 *.pidb
 *.userprefs
 obj/
+.DS_Store
